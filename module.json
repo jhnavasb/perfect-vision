@@ -13,6 +13,7 @@
   "compatibility": {
     "minimum": "10.286",
     "verified": "11.305",
+    "maximum": "11"
   },
   "minimumCoreVersion": "10",
   "scripts": [
